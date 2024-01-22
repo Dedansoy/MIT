@@ -1,0 +1,45 @@
+form{
+    width: 50%;
+    margin: auto;
+    padding: 30px;
+    height: 50%;
+}
+legend {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+button{
+    width: 15%;
+    height: 10%;
+    background-color: chartreuse;
+    margin-left: 10px;
+    padding: 10px;
+}
+input[type=text],input[type=date]{
+    width: 30%;
+    height: 20px;
+    padding-left: 10px;
+    float: right;
+    margin-right: 120px;
+}
+div{
+    background-color: lightskyblue;
+    padding: 30px;
+}
+.three{
+    background-color: dodgerblue;
+}
+textarea{
+    float: right;
+    height: 30px;
+}
+.lhigh{
+    margin-left: 120px;
+}
+
+
+
+
+
+

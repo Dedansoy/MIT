@@ -1,0 +1,55 @@
+body{
+   background-color: #ad5757;
+}
+
+div{
+    background-color: #814545;
+    margin: auto;
+    padding: 50px;
+
+}
+form{
+    margin: auto;
+    width: 60%;
+    height: 500px;
+    padding-right: 100px;
+
+}
+input[type=text],input[type=email],input[ type=date],input[type=password],input[type=number]{
+    width:200;
+    height: 30px;
+    float: right;
+    margin-right:170px;
+
+
+}
+button{
+    width:360px;
+    height: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+label{
+    padding-right: 50px;
+}
+textarea{
+    float: right;
+    height: 50%;
+    width: 45%;
+    margin-right: 80px;
+}
+.name{
+    margin-left:70px;
+}
+.lrad{
+    margin-left:130px;
+}
+.lan{
+    float: right;
+    margin-right: 200px;
+    width: 30%;
+}
+
+
+
+
